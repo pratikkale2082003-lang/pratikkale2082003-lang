@@ -6,11 +6,6 @@
   I enjoy learning new technologies, solving real-world problems, and continuously improving my skills to create impactful software.
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pratikkale2082003-lang&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
-  </a>
-</p>
 
 ---
 
@@ -72,7 +67,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   </a>
 </p>
-
 ---
 
 ### 📌 Highlighted Projects
