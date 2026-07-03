@@ -94,16 +94,12 @@ Java Backend Developer | Spring Boot | REST APIs | PostgreSQL
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
+# 📊 Activity Graph
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pratikkale2082003-lang&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikkale2082003-lang&layout=compact&theme=tokyonight"/>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikkale2082003-lang&theme=tokyo-night"/>
 
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
@@ -116,6 +112,15 @@ Java Backend Developer | Spring Boot | REST APIs | PostgreSQL
 
 ---
 
+--- 
+# 📊 Activity Graph
+
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikkale2082003-lang&theme=tokyo-night"/> 
+  
+</p>
+---
+
 ## 🏆 GitHub Trophy
 
 <p align="center">
@@ -124,21 +129,17 @@ Java Backend Developer | Spring Boot | REST APIs | PostgreSQL
 
 </p>
 
+
 ---
 
-## 🌐 Connect With Me
+# 🌍 Connect With Me 
+<p align="center"> 
+  <a href="https://linkedin.com/in/pratik-kale-23303b31a"> <img src="https://skillicons.dev/icons?i=linkedin" height="50"/> </a> 
 
-<p align="left">
+  <a href="https://github.com/pratikkale2082003-lang"> <img src="https://skillicons.dev/icons?i=github" height="50"/> </a>
 
-<a href="https://linkedin.com/in/pratik-kale-23303b31a">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/pratikkale2082003-lang">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+  <a href="mailto:pratikkale2082003@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+  </p>
 
 ---
 
@@ -154,3 +155,6 @@ Java Backend Developer | Spring Boot | REST APIs | PostgreSQL
 
 </p>
 
+<div 
+  align="center"> ### ⭐ Thanks for visiting my profile! ### If you like my work, consider giving a ⭐ to my repositories. 
+</div>
