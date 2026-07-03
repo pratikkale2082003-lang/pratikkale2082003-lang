@@ -58,6 +58,7 @@ Java Backend Developer | Spring Boot | REST APIs | PostgreSQL
 - Spring Boot
 - Hibernate
 - PostgreSQL
+- JSP
 - MVC Architecture
 - Role-Based Authentication
 - Ticket Tracking Dashboard
@@ -86,13 +87,6 @@ Java Backend Developer | Spring Boot | REST APIs | PostgreSQL
 
 ---
 
-### 🚗 Automatic Accident Detection & Reporting System
-
-- Final Year Project
-- GPS Tracking
-- Emergency Alert System
-
----
 
 ## 🔥 GitHub Streak
 
