@@ -1,112 +1,158 @@
 
-<h1 align="center">Hi 👋, I'm Pratik Kale</h1>
+<div align="center">
 
-<h3 align="center">
-Java Backend Developer | Spring Boot | REST APIs | PostgreSQL
-</h3>
+# Hi 👋, I'm Pratik Kale
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;REST+API+Developer;Always+Learning+New+Technologies" />
-</p>
+### 🚀 Java Backend Developer | Spring Boot | REST APIs | PostgreSQL | Problem Solver
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Backend+Engineer;REST+API+Developer;Always+Learning+New+Technologies" />
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=pratikkale2082003-lang&label=Profile+Views&color=0e75b6&style=flat" />
 
-💻 Passionate Java Backend Developer with an engineering background and internship experience in software development.
-
-- 🔭 Currently building **Spring Boot Backend Projects**
-- 🌱 Learning **Microservices, Spring Security, JWT & Docker**
-- 💡 Interested in **Backend Development & REST APIs**
-- 🤝 Looking to collaborate on **Java/Spring Boot Open Source Projects**
-- 🎯 Goal: Become a Professional Java Backend Developer
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 💫 About Me
 
-### 💻 Programming Languages
+```java
+public class PratikKale {
+
+    String role = "Java Backend Developer";
+
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "Hibernate",
+        "REST APIs",
+        "PostgreSQL",
+        "MySQL",
+        "Git",
+        "GitHub"
+    };
+
+    String learning = "Spring Security • JWT • Docker • Microservices";
+
+    String goal = "Build scalable backend applications and solve real-world problems.";
+
+}
+```
+
+- 🔭 Currently building **Spring Boot Backend Applications**
+- 🌱 Learning **Spring Security, JWT, Docker & Microservices**
+- 👨‍💻 Passionate about Backend Development
+- 💬 Ask me about Java, Spring Boot, Hibernate, REST APIs
+- ⚡ Fun Fact: *I enjoy turning complex problems into simple solutions.*
+
+---
+
+# 🛠 Tech Stack
+
+### Programming Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=java,c,js" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### Backend Development
+
 <p>
-<img src="https://skillicons.dev/icons?i=spring,hibernate,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
 </p>
 
-### 🌐 Web Technologies
+### Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
-### 🗄️ Databases
+### Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-### 🔧 Tools
+### Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,maven,vscode,eclipse" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse" />
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🎫 Support Ticket Management System
-- Spring Boot
-- Hibernate
-- PostgreSQL
-- REST API
-- Role-Based Authentication
-- Ticket Tracking Dashboard
+## 🎫 Support Ticket Management System
 
----
+✔ Spring Boot
 
-### 📚 LearnIQ – Online Aptitude Test System
+✔ Hibernate
 
-- Spring Boot
-- React.js
-- PostgreSQL
-- JWT Authentication
-- Admin & Student Modules
-- Timed MCQ Exams
+✔ PostgreSQL
+
+✔ REST APIs
+
+✔ Role-Based Authentication
+
+✔ Ticket Dashboard
 
 ---
 
-### 🚌 Transportation Booking System
+## 📚 LearnIQ – Online Aptitude Test System
 
-- Java
-- JSP
-- Servlets
-- JDBC
-- PostgreSQL
-- MVC Architecture
+✔ Spring Boot
 
----
+✔ React.js
 
-### 🚗 Automatic Accident Detection & Reporting System
+✔ PostgreSQL
 
-- Final Year Project
-- GPS Tracking
-- Emergency Alert System
+✔ JWT Authentication
+
+✔ Admin & Student Portal
+
+✔ Online MCQ Exam
 
 ---
 
-# 📊 GitHub Stats
+## 🚌 Transportation Booking System
+
+✔ Java
+
+✔ JDBC
+
+✔ PostgreSQL
+
+✔ JSP
+
+✔ Servlets
+
+✔ MVC Architecture
+
+---
+
+## 🚗 Automatic Accident Detection & Reporting System
+
+✔ GPS Integration
+
+✔ Emergency Notification
+
+✔ Accident Detection
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pratikkale2082003-lang&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratikkale2082003-lang&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikkale2082003-lang&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikkale2082003-lang&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -116,41 +162,57 @@ Java Backend Developer | Spring Boot | REST APIs | PostgreSQL
 
 ---
 
-## 🏆 GitHub Trophy
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pratikkale2082003-lang&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pratikkale2082003-lang&theme=tokyonight&margin-w=15&margin-h=15&row=2&column=4"/>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📊 Activity Graph
 
-<p align="left">
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikkale2082003-lang&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
 
 <a href="https://linkedin.com/in/pratik-kale-23303b31a">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 <a href="https://github.com/pratikkale2082003-lang">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="mailto:pratikkale2082003@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 💬 Quote
+# 💡 Quote
 
-> **"Code with clarity, learn continuously, and build solutions that make an impact." 🚀**
+> **"First, solve the problem. Then, write the code." — John Johnson**
 
 ---
 
-<p align="center">
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=pratikkale2082003-lang&color=brightgreen)
+### ⭐ Thanks for visiting my profile!
 
-</p>
+### If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
 
