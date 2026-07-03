@@ -122,15 +122,7 @@ Java Backend Developer | Spring Boot | REST APIs | PostgreSQL
 
 ---
 # 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/pratik-kale-23303b31a"> <img src="https://skillicons.dev/icons?i=linkedin" height="50"/> </a>
-
-<a href="https://github.com/pratikkale2082003-lang"> <img src="https://skillicons.dev/icons?i=github" height="50"/> </a>
-
-<a href="mailto:pratikkale2082003@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-</p>
+<p align="center"> <a href="https://linkedin.com/in/pratik-kale-23303b31a"> <img src="https://skillicons.dev/icons?i=linkedin" height="50"/> </a> <a href="https://github.com/pratikkale2082003-lang"> <img src="https://skillicons.dev/icons?i=github" height="50"/> </a> <a href="mailto:pratikkale2082003@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 ---
 
 ## 💬 Quote
