@@ -98,14 +98,6 @@ Java Backend Developer | Spring Boot | REST APIs | PostgreSQL
 
 ---
 
-# 📊 Activity Graph
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikkale2082003-lang&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🌍 Connect With Me
 
 <p align="center">
